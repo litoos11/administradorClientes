@@ -1,0 +1,12 @@
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Bl.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Bl.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Dao.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Entity.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Dao.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Dao.dll.config
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\bin\Debug\Entity.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.pdb

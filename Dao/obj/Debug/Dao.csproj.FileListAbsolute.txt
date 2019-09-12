@@ -1,0 +1,10 @@
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\bin\Debug\Dao.dll.config
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\bin\Debug\Dao.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\bin\Debug\Dao.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\bin\Debug\Entity.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\bin\Debug\Entity.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\obj\Debug\Dao.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Dao\obj\Debug\Dao.pdb

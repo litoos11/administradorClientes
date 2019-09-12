@@ -1,0 +1,6 @@
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\bin\Debug\Entity.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\bin\Debug\Entity.pdb
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\obj\Debug\Entity.dll
+C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Entity\obj\Debug\Entity.pdb
