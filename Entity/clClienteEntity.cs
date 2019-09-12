@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity
 {
-    class clClienteEntity
+    public class clClienteEntity
     {
 
         public int idCliente { get; set; }
@@ -16,10 +16,13 @@ namespace Entity
         public string curp { get; set; }
         public string telefono { get; set; }
         public string direccion { get; set; }
+        public string correo { get; set; }
         public DateTime fechaAlta { get; set; }
         public DateTime fechaActualizacion { get; set; }
 
-        public clClienteEntity(int idCliente, string nombreComercial, string razonSocial, string rfc, string curp, string telefono, string direccion, DateTime fechaAlta, DateTime fechaActualizacion)
+        public clClienteEntity(int idCliente, string nombreComercial, string razonSocial, string rfc, 
+                                string curp, string telefono, string direccion, string correo,
+                                DateTime fechaAlta, DateTime fechaActualizacion)
         {
             this.idCliente = idCliente;
             this.nombreComercial = nombreComercial;
@@ -27,6 +30,7 @@ namespace Entity
             this.rfc = rfc;
             this.curp = curp;
             this.telefono = telefono;
+            this.correo = correo;
             this.direccion = direccion;
             this.fechaAlta = fechaAlta;
             this.fechaActualizacion = fechaActualizacion;

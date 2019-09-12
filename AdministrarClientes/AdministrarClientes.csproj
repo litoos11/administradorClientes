@@ -58,6 +58,12 @@
     <Compile Include="FrmFormCliente.Designer.cs">
       <DependentUpon>FrmFormCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmVerCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerCliente.Designer.cs">
+      <DependentUpon>FrmVerCliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmClientes.resx">
@@ -65,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmFormCliente.resx">
       <DependentUpon>FrmFormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerCliente.resx">
+      <DependentUpon>FrmVerCliente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

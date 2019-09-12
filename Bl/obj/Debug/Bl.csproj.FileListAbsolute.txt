@@ -10,3 +10,15 @@ C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\ob
 C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.csproj.CopyComplete
 C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.dll
 C:\Users\litoos11\Documents\Visual Studio 2017\Projects\AdministarClientes\Bl\obj\Debug\Bl.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Bl.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Bl.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Dao.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Entity.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Dao.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Dao.dll.config
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\bin\Debug\Entity.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\obj\Debug\Bl.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Bl\obj\Debug\Bl.pdb
