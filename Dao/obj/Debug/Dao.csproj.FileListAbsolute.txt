@@ -18,3 +18,13 @@ C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-mas
 C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Dao\obj\Debug\Dao.csproj.CopyComplete
 C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Dao\obj\Debug\Dao.dll
 C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes-master\Dao\obj\Debug\Dao.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\bin\Debug\Dao.dll.config
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\bin\Debug\Dao.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\bin\Debug\Dao.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\bin\Debug\Entity.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\bin\Debug\Entity.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\obj\Debug\Dao.dll
+C:\Users\Ricardo\Documents\Visual Studio 2017\Projects\administradorClientes\Dao\obj\Debug\Dao.pdb

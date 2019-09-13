@@ -79,7 +79,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmVerContactosDeCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmVerContactorDeCliente";
+            this.Text = ".:. Contactos de Cliente .:.";
             this.Load += new System.EventHandler(this.FrmVerContactorDeCliente_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvContactos)).EndInit();

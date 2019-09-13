@@ -41,5 +41,10 @@ namespace AdministrarClientes
             FrmFormContacto frmFormContacto = new FrmFormContacto(true, contacto, cliente.idCliente);
             frmFormContacto.ShowDialog();
         }
+
+        private void btnReporte_Click(object sender, EventArgs e) {
+            FrmVerReporte frmVerReporte = new FrmVerReporte(cliente.idCliente);
+            frmVerReporte.ShowDialog();
+        }
     }
 }

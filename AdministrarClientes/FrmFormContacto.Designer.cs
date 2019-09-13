@@ -215,7 +215,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmFormContacto";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmFormContaco";
+            this.Text = ".:. Formulario contacto .:.";
             this.Load += new System.EventHandler(this.FrmFormContacto_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

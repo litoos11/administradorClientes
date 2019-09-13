@@ -121,7 +121,8 @@
             this.Controls.Add(this.pnlInfoContacto);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmVerContacto";
-            this.Text = "FrmVerContacto";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = ".:. Ver Contacto .:.";
             this.Load += new System.EventHandler(this.FrmVerContacto_Load);
             this.pnlInfoContacto.ResumeLayout(false);
             this.grpContacto.ResumeLayout(false);

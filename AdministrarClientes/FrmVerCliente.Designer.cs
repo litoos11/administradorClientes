@@ -27,6 +27,7 @@
         private void InitializeComponent() {
             this.pnlInfoCliente = new System.Windows.Forms.Panel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnReporte = new System.Windows.Forms.Button();
             this.lblDireccion = new System.Windows.Forms.Label();
             this.lblCorreo = new System.Windows.Forms.Label();
             this.lblTelefono = new System.Windows.Forms.Label();
@@ -51,6 +52,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnReporte);
             this.groupBox1.Controls.Add(this.lblDireccion);
             this.groupBox1.Controls.Add(this.lblCorreo);
             this.groupBox1.Controls.Add(this.lblTelefono);
@@ -67,6 +69,17 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Cliente";
+            // 
+            // btnReporte
+            // 
+            this.btnReporte.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnReporte.Location = new System.Drawing.Point(676, 286);
+            this.btnReporte.Name = "btnReporte";
+            this.btnReporte.Size = new System.Drawing.Size(116, 23);
+            this.btnReporte.TabIndex = 9;
+            this.btnReporte.Text = "Crear Reporte ";
+            this.btnReporte.UseVisualStyleBackColor = true;
+            this.btnReporte.Click += new System.EventHandler(this.btnReporte_Click);
             // 
             // lblDireccion
             // 
@@ -131,7 +144,7 @@
             // btnNuevoContacto
             // 
             this.btnNuevoContacto.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnNuevoContacto.Location = new System.Drawing.Point(676, 280);
+            this.btnNuevoContacto.Location = new System.Drawing.Point(676, 258);
             this.btnNuevoContacto.Name = "btnNuevoContacto";
             this.btnNuevoContacto.Size = new System.Drawing.Size(116, 23);
             this.btnNuevoContacto.TabIndex = 2;
@@ -142,7 +155,7 @@
             // btnVerContactos
             // 
             this.btnVerContactos.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnVerContactos.Location = new System.Drawing.Point(676, 251);
+            this.btnVerContactos.Location = new System.Drawing.Point(676, 229);
             this.btnVerContactos.Name = "btnVerContactos";
             this.btnVerContactos.Size = new System.Drawing.Size(116, 23);
             this.btnVerContactos.TabIndex = 1;
@@ -169,7 +182,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmVerCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmVerCliente";
+            this.Text = ".:. Ver cliente .:.";
             this.Load += new System.EventHandler(this.FrmVerCliente_Load);
             this.pnlInfoCliente.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
@@ -191,5 +204,6 @@
         private System.Windows.Forms.Label lblCurp;
         private System.Windows.Forms.Label lblRfc;
         private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.Button btnReporte;
     }
 }

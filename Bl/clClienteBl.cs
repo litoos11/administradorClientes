@@ -37,5 +37,6 @@ namespace Bl
             int respuesta = clienteDao.eliminarCliente(idCliente);
             return respuesta;
         }
+       
     }
 }

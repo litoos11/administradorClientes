@@ -215,7 +215,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmFormCliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmFormCliente";
+            this.Text = ".:. Formulario cliente .:.";
             this.Load += new System.EventHandler(this.FrmFormCliente_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
