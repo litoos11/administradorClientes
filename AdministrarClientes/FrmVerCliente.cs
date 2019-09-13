@@ -31,8 +31,15 @@ namespace AdministrarClientes
         }
 
         private void btnVerContactos_Click(object sender, EventArgs e) {
-
+            FrmVerContactosDeCliente frmVerContactosDeCliente = new FrmVerContactosDeCliente(cliente.idCliente);
+            frmVerContactosDeCliente.ShowDialog();
         }
 
+        private void btnNuevoContacto_Click(object sender, EventArgs e)
+        {
+            clContactoEntity contacto = new clContactoEntity();
+            FrmFormContacto frmFormContacto = new FrmFormContacto(true, contacto, cliente.idCliente);
+            frmFormContacto.ShowDialog();
+        }
     }
 }

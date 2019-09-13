@@ -23,22 +23,21 @@ namespace AdministrarClientes
 
         private void FrmClientes_Load(object sender, EventArgs e)
         {
-            dgvClientes.DataSource = clienteBl.buscarClientes();
+            DataTable dtClientes = clienteBl.buscarClientes();
+            llenaGridClientes(dtClientes);
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
+            DataTable dtClientes = new DataTable();
             if (string.IsNullOrEmpty(txtBucar.Text))
-            {                
-                dgvClientes.DataSource = clienteBl.buscarClientes();                
+            {          
+                dtClientes = clienteBl.buscarClientes();
             } else {
-                dgvClientes.DataSource = clienteBl.buscarClientesPorNombre(txtBucar.Text);
+                dtClientes = clienteBl.buscarClientesPorNombre(txtBucar.Text);                
             }
 
-            dgvClientes.Columns["ID"].Visible = false;
-            dgvClientes.Columns["DIRECCION"].Visible = false;
-            dgvClientes.Columns["CORREO"].Visible = false;
-            dgvClientes.Columns["TELEFONO"].Visible = false;
+            llenaGridClientes(dtClientes);                    
         }
 
         private void btnNuevo_Click(object sender, EventArgs e)
@@ -112,6 +111,19 @@ namespace AdministrarClientes
             }
 
             MessageBox.Show("Cliente eliminador correctamente!", "Eliminar", MessageBoxButtons.OK, MessageBoxIcon.None);
+        }
+
+        private void llenaGridClientes(DataTable dtClientes)
+        {
+
+            dgvClientes.DataSource = dtClientes;
+            if (dgvClientes.Rows.Count > 0)
+            {
+                dgvClientes.Columns["ID"].Visible = false;
+                dgvClientes.Columns["DIRECCION"].Visible = false;
+                dgvClientes.Columns["CORREO"].Visible = false;
+                dgvClientes.Columns["TELEFONO"].Visible = false;
+            }
         }
     }
 }

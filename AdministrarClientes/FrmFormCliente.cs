@@ -48,12 +48,7 @@ namespace AdministrarClientes
                 MessageBox.Show("Los campos con ** son obligatorios!", "Guardar", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
             }
-
-            int telefono;
-            if(int.TryParse(txtTelefono.Text, out telefono)) {
-                MessageBox.Show("Número de telefono debe ser solo numeros: ejemplo 2292194912.", "Guardar", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-
+            
             if (isNuevo) {
                 gurdarCliente();
             } else {
@@ -95,7 +90,7 @@ namespace AdministrarClientes
                 return;
             }
 
-            MessageBox.Show("Cliente creado correctamente!", "Guardar", MessageBoxButtons.OK, MessageBoxIcon.None);
+            MessageBox.Show("Cliente creado correctamente!", "Guardar", MessageBoxButtons.OK, MessageBoxIcon.Information);
             this.Close();
         }
 

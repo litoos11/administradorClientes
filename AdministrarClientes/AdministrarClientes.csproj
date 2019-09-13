@@ -58,11 +58,29 @@
     <Compile Include="FrmFormCliente.Designer.cs">
       <DependentUpon>FrmFormCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmFormContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFormContacto.Designer.cs">
+      <DependentUpon>FrmFormContacto.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmVerCliente.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmVerCliente.Designer.cs">
       <DependentUpon>FrmVerCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVerContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerContacto.Designer.cs">
+      <DependentUpon>FrmVerContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVerContactosDeCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerContactosDeCliente.Designer.cs">
+      <DependentUpon>FrmVerContactosDeCliente.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,8 +90,17 @@
     <EmbeddedResource Include="FrmFormCliente.resx">
       <DependentUpon>FrmFormCliente.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmFormContacto.resx">
+      <DependentUpon>FrmFormContacto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmVerCliente.resx">
       <DependentUpon>FrmVerCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerContacto.resx">
+      <DependentUpon>FrmVerContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerContactosDeCliente.resx">
+      <DependentUpon>FrmVerContactosDeCliente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
